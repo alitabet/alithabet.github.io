@@ -15,10 +15,23 @@ pagerSize = 10
 env = "production"
 title = "Ali K. Thabet"
 description = "Senior AI research leader specializing in generative media systems, image and video foundation models, and production AI infrastructure."
-keywords = ["Generative AI", "Image Generation", "Video Generation", "Diffusion Models", "AI Research", "Meta AI", "Computer Vision"]
+keywords = [
+  "Ali Thabet",
+  "Generative AI",
+  "Image Generation",
+  "Video Generation",
+  "Diffusion Models",
+  "AI Research",
+  "Meta AI",
+  "Computer Vision",
+  "Production AI Systems",
+  "Inference Optimization"
+]
 author = "Ali K. Thabet"
+
 defaultTheme = "light"
 disableThemeToggle = true
+
 ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = false
