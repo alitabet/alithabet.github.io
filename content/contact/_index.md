@@ -3,8 +3,6 @@ title: 'Contact'
 description: 'Contact and links for Ali K. Thabet.'
 ---
 
-# Contact
-
 For professional inquiries, research conversations, speaking opportunities, or collaborations, the best way to reach me is through LinkedIn or email.
 
 ## Links

@@ -3,8 +3,6 @@ title: 'Research'
 description: 'Research highlights in generative AI, image and video generation, inference optimization, and computer vision.'
 ---
 
-# Research
-
 My research focuses on generative media systems, image and video foundation models, diffusion and flow models, inference optimization, 3D vision, and computer vision.
 
 For the full publication list, see [Google Scholar](https://scholar.google.com/citations?user=7T0CPEkAAAAJ&hl=en).

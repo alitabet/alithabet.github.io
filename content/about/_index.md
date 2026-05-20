@@ -3,8 +3,6 @@ title: 'About'
 description: 'About Ali K. Thabet.'
 ---
 
-# About
-
 I am a Senior AI research and engineering leader specializing in large-scale generative media systems, image and video foundation models, production AI infrastructure, and inference optimization.
 
 At Meta, I lead frontier Generative AI initiatives spanning real-time image generation, video foundation models, post-training systems, and large-scale deployment infrastructure powering products across Meta AI, Instagram, Facebook, WhatsApp, and Meta’s advertising platforms.

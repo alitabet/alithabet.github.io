@@ -3,8 +3,6 @@ title: 'CV'
 description: "Download Ali K. Thabet's CV."
 ---
 
-# CV
-
 You can download my current industry leadership CV below.
 
 [Download CV PDF](/files/Ali_Thabet_Full_CV.pdf)

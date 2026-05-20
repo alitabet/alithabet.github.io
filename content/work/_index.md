@@ -3,8 +3,6 @@ title: 'Selected Work'
 description: 'Selected generative AI systems, production deployments, and research-to-product initiatives.'
 ---
 
-# Selected Work
-
 My recent work focuses on frontier generative media systems, image and video foundation models, production AI infrastructure, post-training, and inference optimization.
 
 ## Lipsync on Meta AI
