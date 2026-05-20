@@ -1,0 +1,126 @@
+:root {
+  --theme: #ffffff;
+  --entry: #ffffff;
+  --primary: #111827;
+  --secondary: #4b5563;
+  --tertiary: #6b7280;
+  --content: #1f2937;
+  --border: #e5e7eb;
+  --accent: #1f3a5f;
+}
+
+body {
+  font-family:
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+  letter-spacing: -0.01em;
+}
+
+.main {
+  max-width: 920px;
+}
+
+.post-content {
+  font-size: 1.03rem;
+  line-height: 1.72;
+}
+
+.post-content h1 {
+  font-size: 2.4rem;
+  line-height: 1.08;
+  letter-spacing: -0.045em;
+  margin-top: 0.5rem;
+}
+
+.post-content h2 {
+  font-size: 1.45rem;
+  margin-top: 2.2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+  letter-spacing: -0.03em;
+}
+
+.post-content h3 {
+  font-size: 1.08rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0.2rem;
+  letter-spacing: -0.02em;
+}
+
+.post-content a {
+  color: var(--accent);
+  box-shadow: none;
+  font-weight: 500;
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.profile-links a {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.45rem 0.85rem;
+  text-decoration: none;
+  color: var(--accent);
+  font-size: 0.95rem;
+}
+
+.profile-links a:hover {
+  border-color: var(--accent);
+}
+
+.hero-kicker {
+  color: var(--accent);
+  font-weight: 650;
+  margin-bottom: 0.4rem;
+}
+
+.hero-subtitle {
+  color: var(--secondary);
+  font-size: 1.25rem;
+  line-height: 1.45;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.work-card {
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 1.15rem 1.25rem;
+  margin: 1rem 0;
+  background: #ffffff;
+}
+
+.work-card h3 {
+  margin-top: 0;
+}
+
+.metric {
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.tagline {
+  color: var(--secondary);
+  font-size: 0.98rem;
+}
+
+.small-note {
+  color: var(--tertiary);
+  font-size: 0.92rem;
+}
+
+.footer,
+.top-link {
+  font-size: 0.9rem;
+}

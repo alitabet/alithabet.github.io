@@ -1,12 +1,79 @@
-baseURL = "https://alithabet.github.io/"
+baseURL = "https://www.alithabet.com/"
 languageCode = "en-us"
 title = "Ali K. Thabet"
 theme = "PaperMod"
 
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+pagerSize = 10
+
 [params]
+env = "production"
+title = "Ali K. Thabet"
+description = "Senior AI research leader specializing in generative media systems, image and video foundation models, and production AI infrastructure."
+keywords = ["Generative AI", "Image Generation", "Video Generation", "Diffusion Models", "AI Research", "Meta AI", "Computer Vision"]
+author = "Ali K. Thabet"
 defaultTheme = "light"
+disableThemeToggle = true
 ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = false
 ShowBreadCrumbs = false
-disableThemeToggle = true
+ShowCodeCopyButtons = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = false
+UseHugoToc = false
+hideFooter = false
+
+[params.assets]
+disableHLJS = true
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/akthabet/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/alitabet"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/alitabet"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=7T0CPEkAAAAJ&hl=en"
+
+[[menu.main]]
+identifier = "work"
+name = "Work"
+url = "/work/"
+weight = 10
+
+[[menu.main]]
+identifier = "research"
+name = "Research"
+url = "/research/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 30
+
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 40
+
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 50
