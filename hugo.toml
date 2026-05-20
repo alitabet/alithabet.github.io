@@ -1,0 +1,12 @@
+baseURL = "https://alithabet.github.io/"
+languageCode = "en-us"
+title = "Ali K. Thabet"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "light"
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+disableThemeToggle = true
